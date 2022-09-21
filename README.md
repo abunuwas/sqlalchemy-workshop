@@ -45,14 +45,6 @@ documentation: https://alembic.sqlalchemy.org/en/latest/.
 9. Dataclasses for SQLAlchemy models.
 10. Asynchronous SQLAlchemy.
 
-## Free ebook copy of Microservice APIs raffle
-
-At the end of the workshop, I'll raffle a free ebook copy of my book 
-Microservice APIs.
-
-Enter your details [here](https://woorise.com/miocroapis/microservice-apis-ebook-sqla)
-to participate in the raffle.
-
 ## Database models diagram
 
 ![database models diagram](models_diagram.png)
